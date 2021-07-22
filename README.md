@@ -26,7 +26,7 @@
 - 🌱 I'm currently learning **Data Analyis and Competitive Programming**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 Development, 𝙳𝚊𝚝𝚊 Analysis 𝚘𝚛 Deep Learning** projects
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
-- 💬 Wana have a conversation? [Let's connect on LinkedIn](https://www.linkedin.com/in/samarpan-das) ,I'd love to hear from you !!
+- 💬 Wana have a conversation? [Let's connect on LinkedIn](https://www.linkedin.com/in/samarpan-das) , I'd love to hear from you !!
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ Challenge : *Trust me, I'll throw you a pizza treat if you can get me bowled 🏏 within 5 overs* 
 
@@ -64,7 +64,7 @@
 
 ---
 
-### Lets Connect   :phone:
+### Let's Connect   :phone:
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126681592-f4e9b06b-512b-46fe-8915-860143467af1.png"></code>
 
 
