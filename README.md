@@ -9,11 +9,17 @@
 </h1>
 
 
+
 <br/>
 <br/>
+
+
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/55103824/126672698-3988c737-10c4-4df1-bf4e-d1d6c925ed20.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/55103824/126675884-5f8616b3-0f8b-4dc7-996f-e0239b9897c0.gif">
 </a>
+
+
+
 
 - 🔭 I'm a **3rd Year Undergrad** with great interest towards **Software Development**
 - 😎 I've passionately worked with techs like **Deep Learning and Android App Development**
@@ -27,3 +33,34 @@
 <br/>
 <br/>
 
+---
+
+
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/55103824/126682427-4f2ebfa7-ce7a-446e-8340-4082ae411fc6.gif"></a>
+<br/>
+
+
+
+### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 🛠 
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126678407-3cef3943-3f19-4072-88a0-98700c66a93a.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126678809-e1c6cdad-d983-4060-8f78-bb4d1bb2f8af.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126681938-ea38204c-1649-4d8b-ae0e-c26eb75e414f.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126679454-429dca1d-e867-487f-83f1-7f364ac14ce3.jpg"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126682080-97f81bc9-8da8-4041-a34a-36c2355dd034.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126678934-4362f422-e70b-4832-93c6-ddc52f13ddf3.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126679307-45264a97-1fbe-46ea-a759-c38472cebf2f.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126679639-f8180641-5ceb-44b2-94e0-f9de13ddd7d6.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126680290-069d92a9-a59c-4cb9-8e91-01bcc93501b3.jpeg"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126681132-29bfcb28-4db8-4ad5-9456-bd7da959f5c9.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126680530-00832a23-46ff-4313-b466-9f0b4ee08726.jpeg"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126681000-dc55ca0a-dfcd-4712-9704-482448a78f97.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126680770-929bd6bc-3f2c-41d4-b7b8-9294d2aca26e.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126681592-f4e9b06b-512b-46fe-8915-860143467af1.png"></code>
+
+
+
+
+
+<br/>
