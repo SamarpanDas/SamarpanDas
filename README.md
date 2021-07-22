@@ -41,7 +41,7 @@
 
 
 
-### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 🛠 
+### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂  🛠 
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126678407-3cef3943-3f19-4072-88a0-98700c66a93a.png"></code>
@@ -59,15 +59,12 @@
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126680770-929bd6bc-3f2c-41d4-b7b8-9294d2aca26e.png"></code>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126681592-f4e9b06b-512b-46fe-8915-860143467af1.png"></code>
 
-
-<br/>
-
-</a>
-
+#
+#
 
 ---
 
-### Lets Connect  :phone:
+### Lets Connect   :phone:
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126681592-f4e9b06b-512b-46fe-8915-860143467af1.png"></code>
 
 
