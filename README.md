@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://user-images.githubusercontent.com/55103824/126672357-5b3b1108-3fbf-4d30-ae7e-6a179d303066.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;!
   <a target="_blank">
     <img src="https://user-images.githubusercontent.com/55103824/126672592-732b09e4-6bc2-45a3-9ea9-b6052a0c5178.gif" width="40px" />
   </a>
