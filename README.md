@@ -1,56 +1,29 @@
-### Hi there, I'm [Samarpan!](https://www.linkedin.com/in/samarpan-das) 👋👋
-
-</a>
-<a href="https://twitter.com/imsamarpandas">
-  <img align="left" alt="Samarpan's Das | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
-
-
-<br />
-<br />
-
-Hi, I'm Anurag Hazra, a passionate self-taught FrontEnd developer from India.
-
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://user-images.githubusercontent.com/55103824/126672357-5b3b1108-3fbf-4d30-ae7e-6a179d303066.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <a target="_blank">
+    <img src="https://user-images.githubusercontent.com/55103824/126672592-732b09e4-6bc2-45a3-9ea9-b6052a0c5178.gif" width="40px" />
+  </a>
+</h1>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/55103824/126672698-3988c737-10c4-4df1-bf4e-d1d6c925ed20.gif">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
+- 🔭 I'm a **3rd Year Undergrad** with great interest towards **Software Development**
+- 😎 I've passionately worked with techs like **Deep Learning and Android App Development**
+- 🌱 I'm currently learning **Data Analyis and Competitive Programming**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 Development, 𝙳𝚊𝚝𝚊 Analysis 𝚘𝚛 Deep Learning** projects
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
+- 💬 Wana have a conversation? [Let's connect on LinkedIn](https://www.linkedin.com/in/samarpan-das) I'd love to hear from you !!
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+- ⚡ Challenge : *Trust me, I'll throw you a pizza treat if you can get me bowled 🏏 within 5 overs* 
+
+<br/>
+<br/>
+
