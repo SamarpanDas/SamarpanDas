@@ -75,6 +75,29 @@
 ---
 
 ### Let's Connect   :phone:
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126681592-f4e9b06b-512b-46fe-8915-860143467af1.png"></code>
+<a href="https://www.linkedin.com/in/samarpan-das" target="_blank">
+    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756181-e12075ea-d5f6-45f4-a2bb-a3eb3f4bfa44.jpg"/></code>
+</a>
+<a href="https://www.instagram.com/_i.am.samarpan_/" target="_blank">
+    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756311-91b12796-0b41-4628-960d-79fd1a0296e4.png"/></code>
+</a>
+<a href="https://twitter.com/imsamarpandas" target="_blank">
+    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756483-bf67a93e-3882-4abc-8d7d-beb915fed64b.png"/></code>
+</a>
+<a href="https://www.codechef.com/users/samarpan28das" target="_blank">
+    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756605-f40e2817-e4e9-4aa2-8985-c0bced3f2ae4.jpg"/></code>
+</a>
+<a href="https://www.hackerrank.com/mailme_samarpan1?hr_r=1" target="_blank">
+    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756878-f8aee60b-3dd0-404c-97e7-d80a532b9cd5.png"/></code>
+</a>
+<a href="https://codeforces.com/profile/SamarpanDas" target="_blank">
+    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126757159-4c904123-77b5-463d-beb0-0d2427ef8db1.png"/></code>
+</a>
+<a href="https://open.spotify.com/user/itx782blgm67cf9ltdztp3iua?si=yQoTY51vRa-So8vNNbVqYg&utm_source=copy-link&dl_branch=1" target="_blank">
+    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126758154-212e910c-ab61-4bac-8a77-1d6aef41570c.png"/></code>
+</a>
+
+---
+
 
 
