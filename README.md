@@ -28,7 +28,7 @@
 - 🌱 I'm currently learning **Data Analyis and Competitive Programming**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 Development, 𝙳𝚊𝚝𝚊 Analysis 𝚘𝚛 Deep Learning** projects
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
-- 💬 Wana have a conversation? [Let's connect on LinkedIn](https://www.linkedin.com/in/samarpan-das) , I'd love to hear from you !!
+- 💬 Wana have a conversation? Let's Connect, I'd love to hear from you!!
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ Challenge : *Trust me, I'll throw you a pizza treat if you can get me bowled 🏏 within 5 overs* 
 
@@ -80,6 +80,9 @@
 <a href="https://www.linkedin.com/in/samarpan-das" target="_blank">
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756181-e12075ea-d5f6-45f4-a2bb-a3eb3f4bfa44.jpg"/></code>
 </a>
+<a href="mailto:mailme.samarpandas@gmail.com" target="_blank">
+    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126834656-78e90418-94e5-4ae6-9c6e-f462838c2801.png"/></code>
+</a>
 <a href="https://www.instagram.com/_i.am.samarpan_/" target="_blank">
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756311-91b12796-0b41-4628-960d-79fd1a0296e4.png"/></code>
 </a>
@@ -99,7 +102,11 @@
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126758154-212e910c-ab61-4bac-8a77-1d6aef41570c.png"/></code>
 </a>
 
+
+
 ---
+
+
 
 
 
