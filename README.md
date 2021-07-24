@@ -17,16 +17,13 @@
 
 ![](https://komarev.com/ghpvc/?username=SamarpanDas&color=green&label=Profile+Views)
 
-  
-<br/>
+
 <br/>
 
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/55103824/126675884-5f8616b3-0f8b-4dc7-996f-e0239b9897c0.gif">
 </a>
-
-
 
 
 - 🔭 I'm a **3rd Year Undergrad** with great interest towards **Software Development**
@@ -83,6 +80,8 @@
 ---
 
 ### Let's Connect   :phone:
+<br/>
+
 <a href="https://www.linkedin.com/in/samarpan-das" target="_blank">
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756181-e12075ea-d5f6-45f4-a2bb-a3eb3f4bfa44.jpg"/></code>
 </a>
