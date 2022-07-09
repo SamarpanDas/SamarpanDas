@@ -29,7 +29,7 @@
 </a>
 
 
-- 🔭 I'm a **3rd Year Undergrad** with great interest towards **Software Development**
+- 🔭 I'm a **Final Year Undergrad** with great interest towards **Software Development**
 - 😎 I've passionately worked with techs like **Deep Learning and Android App Development**
 - 🌱 I'm currently learning **Data Analysis and Competitive Programming**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 Development, 𝙳𝚊𝚝𝚊 Analysis 𝚘𝚛 Deep Learning** projects
